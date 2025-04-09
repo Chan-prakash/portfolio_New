@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio_New/static/css/main.ae1ca722.css",
+    "main.js": "/portfolio_New/static/js/main.f353b510.js",
+    "static/js/453.b05d8aa5.chunk.js": "/portfolio_New/static/js/453.b05d8aa5.chunk.js",
+    "static/media/nomixo.png": "/portfolio_New/static/media/nomixo.2a00cd15e9c13f4d7967.png",
+    "static/media/sneakerhub.png": "/portfolio_New/static/media/sneakerhub.15a512ab60406a474af8.png",
+    "static/media/portfoliodesign.png": "/portfolio_New/static/media/portfoliodesign.3ebc068354ab9b8ab9e1.png",
+    "static/media/bg-light.png": "/portfolio_New/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/fa-solid-900.ttf": "/portfolio_New/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/bg-dark.png": "/portfolio_New/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/fa-brands-400.ttf": "/portfolio_New/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/grainyX.png": "/portfolio_New/static/media/grainyX.46f0eefd59ebaf520f21.png",
+    "static/media/fa-solid-900.woff2": "/portfolio_New/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/photo.jpg": "/portfolio_New/static/media/photo.ba8c0b682f9aaeffb605.jpg",
+    "static/media/fa-brands-400.woff2": "/portfolio_New/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/portfolio_New/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/cloudVaultpng.png": "/portfolio_New/static/media/cloudVaultpng.070e65d613407e9dc5c9.png",
+    "static/media/fa-regular-400.woff2": "/portfolio_New/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/portfolio_New/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio_New/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/portfolio_New/index.html",
+    "main.ae1ca722.css.map": "/portfolio_New/static/css/main.ae1ca722.css.map",
+    "main.f353b510.js.map": "/portfolio_New/static/js/main.f353b510.js.map",
+    "453.b05d8aa5.chunk.js.map": "/portfolio_New/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae1ca722.css",
+    "static/js/main.f353b510.js"
+  ]
+}
