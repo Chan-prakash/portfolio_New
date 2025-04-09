@@ -73,19 +73,20 @@ function Project() {
                 </div>
 
                 <div className="project">
-                    <a href="https://chanprakash.com" target="_blank" rel="noreferrer">
-                        <img src={portfolio} className="zoom" alt="Portfolio Design thumbnail" width="100%" />
-                    </a>
-                    <a href="https://chanprakash.com" target="_blank" rel="noreferrer">
-                        <h2>Personal Portfolio Website</h2>
-                    </a>
-                    <p>
-                        A responsive personal portfolio designed and developed to showcase my projects and skills. 
-                        Built using HTML, CSS, and deployed via GitHub Pages and Vercel. 
-                        Emphasized clean UI/UX with smooth scroll, animations, and accessibility. 
-                        Included interactive sections for About, Skills, Projects, and Contact.
-                    </p>
-                </div>
+    <a href="https://www.figma.com/design/12YfhiF17zFMGWtTVfcZth/Untitled?node-id=63-519&t=GOE8Gghd0Rw8PomJ-0" target="_blank" rel="noreferrer">
+        <img src={portfolio} className="zoom" alt="Portfolio Design thumbnail" width="100%" />
+    </a>
+    <a href="https://www.figma.com/design/12YfhiF17zFMGWtTVfcZth/Untitled?node-id=63-519&t=GOE8Gghd0Rw8PomJ-0" target="_blank" rel="noreferrer">
+        <h2>Portfolio UI Design (Figma)</h2>
+    </a>
+    <p>
+        Designed a modern and responsive personal portfolio UI using Figma. 
+        Focused on clean layout, interactive sections like Projects, Skills, and Contact. 
+        Prioritized user experience and visual hierarchy to guide visitors through the content. 
+        The design features a minimal aesthetic with consistent color palette and typography.
+    </p>
+</div>
+
 
             </div>
         </div>
